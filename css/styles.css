@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  border-bottom: 2px solid white;
+  border-bottom: 1px solid white;
   color: white;
   padding: 93px 0;
   text-align: center;
@@ -63,7 +63,7 @@ ul li {
   display: flex;
   justify-content: center;
   background-color: rgb(44, 40, 40);
-  border-bottom: 2px solid white;
+  border-bottom: 1px solid white;
 }
 
 #about .container h2{
@@ -76,7 +76,7 @@ ul li {
 
 #contact {
   background-color:rgb(44, 40, 40);
-  border-bottom: 2px solid white;
+  border-bottom: 1px solid white;
   
 }
 
@@ -145,7 +145,7 @@ ul li {
   width: 100%;
   justify-content: center;
   align-items: center;
-  border-bottom: 2px solid white;
+  border-bottom: 1px solid white;
 }
 
 .social .container {
